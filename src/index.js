@@ -4,6 +4,9 @@ import App from "./components/App";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
+
+//this is to tract the version control on git
+
 //1. Apply CSS styles to App.jsx component
 //to match the appearance on the completed app:
 //https://c6fkx.csb.app/
